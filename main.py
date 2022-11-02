@@ -7,7 +7,7 @@ def sum(*nums):
     f = reduce(lambda x, y: x + y, a)
 
     print(f)
-
+    
 
 
 
