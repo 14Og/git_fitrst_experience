@@ -7,5 +7,5 @@ using namespace std;
 
 int main()
 {
-cout << "Hello World! Hello git! Yo";
+cout << "yo git";
 }
